@@ -1,8 +1,33 @@
-### Hi there 👋
-
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vVegyymxA90fkY8jkE/giphy.gif" width="400"/>
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <img src="https://media.giphy.com/media/vVegyymxA90fkY8jkE/giphy.gif" width="300"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/palina-kazhyna-9a016b245/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Polina65299727">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=polinapolina94&style=flat-square&color=ff69b4" alt=""/>
+</div>
+
+<div id="main" align="center">
+ <h2>
+ My name is Polina.
+ </h2>
+ <h3>
+ I'm 28 years old.
+ </h3>
+ <div>
+ <h2>
+ I am a Frontend Developer (React 💙)
+ </h2>
+ </div>
+ You are Welcome! 😄
 </div>
 
 <!--
