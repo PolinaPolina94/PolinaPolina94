@@ -19,16 +19,14 @@
  <h2>
  My name is Polina.
  </h2>
- <h3>
- I'm 28 years old.
- </h3>
  <div>
  <h2>
- I am a Frontend Developer (React 💙)
+ I'm a Frontend Developer (React 💙)
  </h2>
  </div>
- You are Welcome! 😄
-</div>
+<h4>
+  😄 You are Welcome! 😄
+</h4>
 
 <!--
 **PolinaPolina94/PolinaPolina94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
