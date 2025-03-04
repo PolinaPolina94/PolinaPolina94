@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/palina-kazhyna-9a016b245/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Polina65299727">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=polinapolina94&style=flat-square&color=ff69b4" alt=""/>
 </div>
@@ -19,13 +16,8 @@
  </h1>
  
  <h2>
- I'm a Frontend Developer (React 💙)
+ I'm a Frontend Developer (React)
  </h2>
-
-<h4>
-  😄 You are Welcome! 😄
-</h4>
-
 
 <h2> 
   :woman_technologist: Tools:
